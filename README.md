@@ -1,15 +1,16 @@
 # Hello there :wave:
 
 My name is Roman Gulevatiy, I'm a computer science student based in Ukraine. <br>
-I'm a Full-Stack Developer with a strong focus on Backend systems and a solid understanding of DevOps practices.
+I'm a Backend Developer focused on server-side architecture and DevOps practices, while also learning Frontend.
 
 <br>
 
 **These days I'm focused on:**
 
-- Learning the Vue.js framework for frontend development
-- Deepening my knowledge in CI/CD pipelines and Docker containerization
-- Enhancing my Spring Boot and overall backend skills
+- Learning Go (Golang) for high-performance backend services
+- Deepening my knowledge in Spring Boot and backend engineering
+- Studying microservices architecture and distributed systems
+- Continuing to explore frontend development with Vue.js
 
 **Connect with me**
 
@@ -21,10 +22,10 @@ I'm a Full-Stack Developer with a strong focus on Backend systems and a solid un
 ## My Skills
 
 ### Development
-![Development](https://go-skill-icons.vercel.app/api/icons?i=java,spring,springsecurity,springdatajpa,hibernate,jwt,maven,js,ts,vue,vite,tailwind&theme=dark&perline=7)
+![Development](https://go-skill-icons.vercel.app/api/icons?i=go,java,spring,springsecurity,hibernate,jwt,maven,js,vue,vite,pinia,tailwind&theme=dark&perline=7)
 
 ### DevOps
 ![DevOps](https://go-skill-icons.vercel.app/api/icons?i=docker,git,github,githubactions,postgresql,mongodb,redis&theme=dark)
 
 ### Environment
-![Environment](https://go-skill-icons.vercel.app/api/icons?i=linux,arch,debian,idea,webstorm,postman&theme=dark)
+![Environment](https://go-skill-icons.vercel.app/api/icons?i=linux,arch,debian,idea,goland,webstorm,postman&theme=dark)
