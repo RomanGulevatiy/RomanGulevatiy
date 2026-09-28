@@ -28,4 +28,5 @@ I'm a Backend Developer focused on server-side architecture and DevOps practices
 ![DevOps](https://go-skill-icons.vercel.app/api/icons?i=docker,git,github,githubactions,postgresql,mongodb,redis&theme=dark)
 
 ### Environment
-![Environment](https://go-skill-icons.vercel.app/api/icons?i=linux,arch,debian,neovim,idea,goland,webstorm,postman&theme=dark)
+![Environment](https://go-skill-icons.vercel.app/api/icons?i=linux,arch,debian,alacritty,vim,neovim,zed,idea,goland,webstorm,postman&theme=dark&perline=7)
+
