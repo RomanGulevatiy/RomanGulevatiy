@@ -22,11 +22,11 @@ I'm a Backend Developer focused on server-side architecture and DevOps practices
 ## My Skills
 
 ### Development
-![Development](https://go-skill-icons.vercel.app/api/icons?i=go,java,spring,springsecurity,hibernate,jwt,maven,js,vue,vite,pinia,tailwind&theme=dark&perline=7)
+![Development](https://skill-badges.fly.dev/api/v1/badges?b=go,java,spring,springsecurity,hibernate,jwt,maven,js,vue,vite,pinia,tailwind&perline=7)
 
 ### DevOps
-![DevOps](https://go-skill-icons.vercel.app/api/icons?i=docker,git,github,githubactions,postgresql,mongodb,redis&theme=dark)
+![DevOps](https://skill-badges.fly.dev/api/v1/badges?b=docker,git,github,githubactions,postgresql,mongodb,redis)
 
 ### Environment
-![Environment](https://go-skill-icons.vercel.app/api/icons?i=linux,arch,debian,alacritty,vim,neovim,zed,idea,goland,webstorm,postman&theme=dark&perline=7)
+![Environment](https://skill-badges.fly.dev/api/v1/badges?b=linux,arch,debian,alpine,vim,neovim,zed,idea,goland,webstorm,postman&perline=7)
 
